@@ -1,4 +1,4 @@
-object Q_2 {
+object Q02 {
   def main(args: Array[String]): Unit = {
     print("Enter your integer number - ")
     val givenNumber = scala.io.StdIn.readInt()
